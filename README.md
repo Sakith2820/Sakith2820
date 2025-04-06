@@ -2,12 +2,6 @@
 
 <h1 align="center">Hi guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sakith</h1>
 
-<div align=center> 
-<a href="https://www.buymeacoffee.com/sameerasw" target="_blank" title="buymeacoffee">
-  <img src="https://iili.io/JoQl86x.md.png"  alt="buymeacoffee-green-badge" style="width: 104px;">
-</a>
-
-  </div>
   
 <p align="center">
 👨🏻‍💻 Currently working in the UI/UX and front-end field while learning front-end development in the meantime. 
