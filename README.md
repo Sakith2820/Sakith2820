@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 <div  style="padding:10">
   <p align="center " >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,java,kotlin,html,css,react,typescript,js,bootstrap,spring,python,androidstudio,vscode,idea,figma,windows,selenium,neon" />
+    <img src="https://skillicons.dev/icons?i=github,git,java,kotlin,html,css,react,typescript,js,bootstrap,spring,python,androidstudio,vscode,idea,figma,windows,selenium,neon" align="center" />
   </a>
 </p>
 </div>
 
 <h1 align="center"> 📊 GitHub Stats </h1>
 
-
 ![Sakith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakith2820&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakith2820&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakith2820&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakith2820&layout=compact&theme=radical" width="400" />
+</div>
 
 
 
