@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 📊 GitHub Stats </h1>
 
-![Sakith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakith2820&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakith2820&theme=radical)
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakith2820&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakith2820&theme=radical" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakith2820&layout=compact&theme=radical" width="400" />
 </div>
 
