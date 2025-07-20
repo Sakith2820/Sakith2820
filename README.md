@@ -1,6 +1,7 @@
 ![setup-wireframe](https://github.com/Sakith2820/Sakith2820/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sakith Nimpura</h1>
+<p>Personal portfolio website : <a href="https://snm-portfolio.netlify.app/">SNM Protfolio</a></p>
 
 Here are some ideas to get you started:
 
