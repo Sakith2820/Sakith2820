@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <div  style="padding:10">
   <p align="center " >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,java,kotlin,html,css,react,typescript,js,bootstrap,spring,python,androidstudio,vscode,idea,figma,windows,selenium,neon" align="center" />
+    <img src="https://skillicons.dev/icons?i=github,git,java,kotlin,html,css,react,typescript,js,bootstrap,spring,python,androidstudio,vscode,idea,figma,windows,selenium,neon,swift,katlon" align="center" />
   </a>
 </p>
 </div>
